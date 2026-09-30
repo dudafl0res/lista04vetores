@@ -2,7 +2,6 @@
 
 Exercicios de vetores em C, feitos no Dev-C++.
 
-Cada arquivo `exNN.c` e um programa separado. Para rodar, abra um arquivo por vez e compile (F11 no Dev-C++).
 
 | Arquivo | Exercicio |
 |---|---|
